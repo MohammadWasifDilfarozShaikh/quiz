@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inp1{
+    border-left: none;
+    border-right: none;
+    border-top: none ;
+}
+.option1{
+    position: relative;
+    left: 40px;
+    top: 55px;
+}
+.head1{
+    position: relative;
+    left: 10px;
+    top: 50px;
+}
+.head2{
+    position: relative;
+    left: 10px;
+    top: 65px;   
+}
+.option2{
+    position: relative;
+    left: 40px;
+    top: 70px;
+}
+.head3{
+    position: relative;
+    left: 10px;
+    top: 78px;
+}
+.option3{
+    position: relative;
+    left: 40px;
+    top: 81px;
+}
+.head4{
+    position: relative;
+    left: 10px;
+    top: 88px;
+}
+.option4{
+    position: relative;
+    left: 40px;
+    top: 90px;
+}
+.head5{
+    position: relative;
+    left: 10px;
+    top: 95px;
+}
+.option5{
+    position: relative;
+    left: 40px;
+    top: 97px;
+}
+.sc{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    font-size: 22px;
+    color: yellow;
+}
+.img1{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 215px;
+    top: -385px ;
+    display: none;
+}
+.img2{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 240px;
+    top: -388px;
+    display:none;
+}
+body{
+    background-image: url("blue-dgmxybg4kb7eab7x.jpg");
+}
+.main{
+    color: white;
+}
+.img3{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 215px;
+    top: -327px;
+    display:none;
+}
+.img4{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 217px;
+    top:-339px;
+    display:none;
+}
+.img5{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 215px;
+    top: -284px ;
+    display:none;
+}
+.img6{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 240px;
+    top: -288px;
+    display:none;
+}
+.img7{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 215px;
+    top: -223px;
+    display:none;
+}
+.img8{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 240px;
+    top: -238px;
+    display:none;
+}
+.img9{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 215px;
+    top: -171px;
+    display:none;
+}
+.img10{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 240px;
+    top: -190px;
+    display:none;
+}
